@@ -1,3 +1,4 @@
+
 # Dictionary in python
 
 Dict = {1: 'Aplles' 2: 'are', 3: 'red'} 
