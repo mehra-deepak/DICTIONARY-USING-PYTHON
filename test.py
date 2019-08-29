@@ -8,7 +8,7 @@ print(Dict)
 # So if a key is passed or traversed along the Dictionary the value associated with it is 
 # is printe as well.
 
-a=int(input("enter the number:"))
+a=int(input("enter one of the number from above key:"))
 
 if a in Dict:
     print(Dict[a])
