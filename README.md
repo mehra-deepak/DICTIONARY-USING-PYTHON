@@ -16,4 +16,4 @@ JSON : The JSON format is often used for serializing and transmitting structured
 
 # Proof of Work
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/mehra-deepak/English-Dictionary/blob/master/Raw.PNG)
